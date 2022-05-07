@@ -2,9 +2,9 @@
 
 ## Installation
 
-    npm install tailwindcss-px-to-rem
+    npm install tailwindcss-convert-px-to-rem
     //or
-    yarn tailwindcss-px-to-rem
+    yarn add tailwindcss-convert-px-to-rem
 
 ### Tailwind Config
 
@@ -13,7 +13,7 @@
 	    theme:  { 
 		    extend:  {}, 
 		}, 
-		plugins:  [require('@tailwindcss-px-to-rem'),], //add here a plugin
+		plugins:  [require('@tailwindcss-convert-px-to-rem')], //add here a plugin
 	}
 
 ## Usage
