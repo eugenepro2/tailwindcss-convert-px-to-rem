@@ -1,6 +1,6 @@
 {
   "name": "tailwindcss-convert-px-to-rem",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Tailwind Css plugin convert dynamic classes from px to rem.",
   "main": "index.js",
   "repository": "https://github.com/eugenepro2/tailwindcss-convert-px-to-rem",
@@ -22,7 +22,6 @@
   },
   "license": "ISC",
   "dependencies": {
-    "autoprefixer": "^10.4.7",
     "postcss": "^8.4.13",
     "tailwindcss": "^3.0.24"
   }

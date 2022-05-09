@@ -8,6 +8,11 @@ and this project mostly adheres to [Semantic Versioning](https://semver.org/spec
 ## [1.0.3] - 2022-05-09
 
 ### Fixed
+- Removed autoprefixer from dependencies
+
+## [1.0.3] - 2022-05-09
+
+### Fixed
 - Fixed generating classes who has several properties. For, example: py, px, mx, my
 
 ## [1.0.2] - 2022-05-07 
